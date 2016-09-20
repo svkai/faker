@@ -21,6 +21,13 @@ Faker is heavily inspired by `PHP Faker`_, `Perl Faker`_, and by `Ruby Faker`_.
 
 For more details, see the `extended docs`_.
 
+Deprecation Warning
+-------------------
+
+The `fake-factory` package will be deprecated on December 15th, 2016.
+
+Please use the ``Faker`` package instead!
+
 Basic Usage
 -----------
 
