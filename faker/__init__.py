@@ -1,6 +1,7 @@
-VERSION = '0.7.4'
+VERSION = '9999.9.9'
 
-from faker.generator import Generator
-from faker.factory import Factory
+error = """The ``fake-factory`` package is now called ``Faker``.
 
-Faker = Factory.create
+Please update your requirements.
+"""
+raise ImportError(error)
