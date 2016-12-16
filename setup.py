@@ -13,7 +13,7 @@ NEWS = io.open(os.path.join(here, 'CHANGELOG.rst'), encoding="utf8").read()
 
 version = '0.7.3'
 
-package_name = 'Faker'
+package_name = 'fake-factory'
 
 if package_name == 'fake-factory':
     print("""WARNING:
@@ -57,7 +57,7 @@ setup(
     keywords='faker fixtures data test mock generator',
     author='joke2k',
     author_email='joke2k@gmail.com',
-    url='http://github.com/joke2k/faker',
+    url='https://github.com/joke2k/faker',
     license='MIT License',
     packages=find_packages(),
     platforms=["any"],
