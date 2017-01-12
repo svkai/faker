@@ -187,7 +187,7 @@ class Provider(PersonProvider):
  'Oganga ',
  'Mutwiri ',
  'Njau ',
- 'Morang'A ',
+ "Morang'A ",
  'Mzito ',
  'Kiage ',
  'Evans ',
