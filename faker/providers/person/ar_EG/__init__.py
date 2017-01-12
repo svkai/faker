@@ -170,7 +170,7 @@ class Provider(PersonProvider):
  'S.',
  'M.',
  'Elserafie',
- 'Elhadidi
+ 'Elhadidi',
  'Elshazly',
  'Elbenhawy',
  'Elbadry',
