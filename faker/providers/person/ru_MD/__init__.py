@@ -118,7 +118,7 @@ class Provider(PersonProvider):
  'Sofia',
  'Alexandra',
  'Victoria',
- 'Valeria ',
+ 'Valeria',
  'Andreea',
  'Nicoleta',
  'Evelina',
